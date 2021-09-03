@@ -1,9 +1,7 @@
 body {
-  margin: 0;
-  padding: 0;
-  font-family: sans-serif;
+  padding: 20px;
 }
 
 .celebImg {
-  height: 12vh;
+  height: 15vh;
 }

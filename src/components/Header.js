@@ -3,11 +3,8 @@ import React from "react";
 const Header = () => {
 	return (
 		<h1>
-			IronContacts{" "}
-			<span role='img' aria-label='img'>
-				{" "}
-				❤️{" "}
-			</span>
+			Movies Actors
+			<span>{" "}❤️</span>
 		</h1>
 	);
 };
